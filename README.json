@@ -1,0 +1,642 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "System Hacking"
+    },
+    {
+      "description": "To discover hosts, services, and vulnerabilities efficiently in CTF environments, Nmap is a critical tool. Below are curated commands and strategies:",
+      "items": [],
+      "title": "Nmap Scanning"
+    },
+    {
+      "description": "Use this to quickly find which machines are up.",
+      "items": [],
+      "title": "🔍 Discover Live Hosts in a Subnet:"
+    },
+    {
+      "description": "Identify open ports and the version of services running.",
+      "items": [],
+      "title": "🔧 Service and Version Detection:"
+    },
+    {
+      "description": "Uses default vulnerability detection scripts against known services.",
+      "items": [],
+      "title": "🚨 Vulnerability Scanning:"
+    },
+    {
+      "description": "Scans all 65535 TCP ports with OS, version detection, script scanning and traceroute.",
+      "items": [],
+      "title": "🔍 Aggressive Full Port + OS Detection + Script Scanning:"
+    },
+    {
+      "description": "Displays supported SSL/TLS ciphers for HTTPS services.",
+      "items": [],
+      "title": "🔐 SSL/TLS Enumeration:"
+    },
+    {
+      "description": "To passively discover machines on the network, use Netdiscover. It listens for ARP requests to identify live hosts without sending packets, making it ideal for stealth reconnaissance in CTFs or red team exercises.\nIf unsure of your interface, identify it using:\nSample Output:",
+      "items": [],
+      "title": "Netdiscover Scanning"
+    },
+    {
+      "description": "To scan for web vulnerabilities using Nikto, a powerful web server scanner that tests for thousands of known issues.\nThis tool is effective for identifying outdated software, insecure configurations, and common CVEs.",
+      "items": [],
+      "title": "Nikto Scanning"
+    },
+    {
+      "description": "When ports 80 (HTTP) or 443 (HTTPS) are open, it likely indicates a web service. This presents an opportunity to enumerate for flags, directories, and version-specific vulnerabilities.",
+      "items": [],
+      "title": "Web Server Enumeration"
+    },
+    {
+      "description": "To enumerate hidden directories and files on a web server, directory brute-forcing is essential in CTFs.",
+      "items": [],
+      "title": "📂 Directory Bursting"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Using :"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Using (faster alternative):"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Using (Python-based tool):"
+    },
+    {
+      "description": "Use to crawl a target website and generate a custom wordlist based on its content—useful for password attacks, username discovery, or directory bruteforcing.",
+      "items": [],
+      "title": "🧠 Generating Wordlist from the Website"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Basic Usage:"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Word Count:"
+    },
+    {
+      "description": "When ports 139/445 are open, the target may be running SMB (Server Message Block)—commonly misconfigured in CTFs, making it a goldmine for enumeration and exploitation.",
+      "items": [],
+      "title": "📁 SMB is Open"
+    },
+    {
+      "description": "Lists available shares. If successful without credentials, the server allows anonymous login.",
+      "items": [],
+      "title": "🔍 Anonymous Share Enumeration"
+    },
+    {
+      "description": "Or use credentials:",
+      "items": [],
+      "title": "📂 Mounting SMB Share (Anonymous or Authenticated)"
+    },
+    {
+      "description": "Enumerates shares, permissions, and access level.",
+      "items": [],
+      "title": "🔐 With Credentials – Using"
+    },
+    {
+      "description": "If credentials are valid and ADMIN$ is accessible, this will drop you into a SYSTEM shell.",
+      "items": [],
+      "title": "🚀 Gaining Shell – Using"
+    },
+    {
+      "description": "Virtual Hard Disk (VHD) files are often found in forensic or Windows-based CTF challenges. These can contain hidden flags, user profiles, or sensitive files.",
+      "items": [],
+      "title": "💾 To Extract and Mount VHD Drive Files"
+    },
+    {
+      "description": "Quickly inspects the archive to confirm structure before mounting.",
+      "items": [],
+      "title": "📦 List Contents of the VHD"
+    },
+    {
+      "description": "Use to quickly find known exploits or vulnerabilities from the Exploit-DB repository.",
+      "items": [],
+      "title": "🔍 To Search for Exploits on Metasploit by Name"
+    },
+    {
+      "description": "Searches for Apache version-specific exploits in the local database.",
+      "items": [],
+      "title": "Basic Usage:"
+    },
+    {
+      "description": "If is discovered during web enumeration, the target is likely running WordPress—a common and often vulnerable CMS in CTFs.",
+      "items": [],
+      "title": "📰 WordPress Open"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🐚 Reverse Shell via Admin Upload (Metasploit)"
+    },
+    {
+      "description": "If port 135 (or 445 with RPC over SMB) is open, it indicates a Windows host with Remote Procedure Call (RPC) capabilities. Misconfigured RPC access can expose usernames, shares, and domain info.",
+      "items": [],
+      "title": "🛰️ RPC Open"
+    },
+    {
+      "description": "Press Enter when prompted for a password to attempt a null session.",
+      "items": [],
+      "title": "🔐 Anonymous RPC Login"
+    },
+    {
+      "description": "PowerShell is a powerful post-exploitation and enumeration tool on Windows machines.",
+      "items": [],
+      "title": "💻 PowerShell"
+    },
+    {
+      "description": "Allows execution of unsigned scripts without modifying system-wide policy.",
+      "items": [],
+      "title": "🚫 Bypass Execution Policy"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🧬 NoSQL Injection – Full CTF Exploitation Guide"
+    },
+    {
+      "description": "These exploit MongoDB’s flexible querying:\nThese payloads allow login by returning on any non-null or regex match.",
+      "items": [],
+      "title": "🔓 Login Bypass Payloads"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🛠️ Common Injection Entry Points"
+    },
+    {
+      "description": "Try brute-forcing usernames one letter at a time:\nCheck for response differences to confirm partial matches.",
+      "items": [],
+      "title": "🧪 Blind NoSQL Injection (User Enumeration)"
+    },
+    {
+      "description": "This helps discover valid users:",
+      "items": [],
+      "title": "🔍 Extract Usernames via Regex"
+    },
+    {
+      "description": "If is supported (JS injection):\nEnumerate the length first, then extract char-by-char.",
+      "items": [],
+      "title": "🧠 Extract Password Length (with )"
+    },
+    {
+      "description": "If errors don’t help, exploit time:\nOr for some frameworks:\nIf delay occurs, injection is successful.",
+      "items": [],
+      "title": "🔁 Time-Based Injection (Timing Attacks)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🧰 Automated Tools"
+    },
+    {
+      "description": "If user exists:\nIf login succeeds, you’ve confirmed user exists.\nTo bypass:\nIf admin panel access is via role:",
+      "items": [],
+      "title": "🔐 Privilege Escalation / Admin Hijack"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Web Hacking"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Five Stages of Web Hacking"
+    },
+    {
+      "description": "Recon is critical in CTFs. Use these tools to gather intelligence before exploiting.",
+      "items": [],
+      "title": "🛰️ Enumeration and Reconnaissance Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Amass",
+          "description": "Extensive subdomain and DNS enumeration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-19T05:16:40Z",
+            "owner": "owasp-amass",
+            "repo": "amass",
+            "stars": 14974
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sublist3r",
+          "description": "Fast subdomain discovery:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-02T00:00:30Z",
+            "owner": "aboul3la",
+            "repo": "Sublist3r",
+            "stars": 11018
+          }
+        }
+      ],
+      "title": "🌐 Subdomain & Certificate Enumeration"
+    },
+    {
+      "description": "Ping Sweep a network.\nSYN Scan with Speed of 4 and port of common 1000 TCP.\nAll Port scan with All Scanning including OS, Version, Script and Traceroute.\nTo scan for UDP Ports (Dont scan all scans, as it takes lot of time).",
+      "items": [],
+      "title": "Scanning"
+    },
+    {
+      "description": "Payloads are code executed on the target after exploitation. In Metasploit, they’re categorized as Staged and Non-Staged.",
+      "items": [],
+      "title": "💣 Payloads"
+    },
+    {
+      "description": "Shells are essential for post-exploitation access. They can be Bind Shells or Reverse Shells, depending on which side initiates the connection.",
+      "items": [],
+      "title": "🐚 Shells"
+    },
+    {
+      "description": "Target listens, and attacker connects in.\n1️⃣ On Target (create shell):\n2️⃣ On Attacker (connect to shell):",
+      "items": [],
+      "title": "🔗 Bind Shell"
+    },
+    {
+      "description": "Attacker listens, and target connects back.\n1️⃣ On Attacker (listen):\n2️⃣ On Target (trigger shell):",
+      "items": [],
+      "title": "🔁 Reverse Shell"
+    },
+    {
+      "description": "If you get a basic shell, upgrade it:\nAnd make it interactive:",
+      "items": [],
+      "title": "🧼 Shell Upgrade Tips"
+    },
+    {
+      "description": "Buffer overflow exploits can be used to execute arbitrary code, often giving shell access. One key step is injecting shellcode into the program's memory.",
+      "items": [],
+      "title": "💥 Buffer Overflow"
+    },
+    {
+      "description": "Quick shellcode to spawn :",
+      "items": [],
+      "title": "🛠️ Generate Shellcode with (Python)"
+    },
+    {
+      "description": "Gobuster is a fast, flexible tool used to brute-force directories, files, and virtual hosts on web servers—critical for discovering hidden content during CTFs.",
+      "items": [],
+      "title": "🚪 Gobuster – Directory & File Enumeration"
+    },
+    {
+      "description": "SQLMap automates the detection and exploitation of SQL injection flaws. In CTFs, it’s a fast way to extract databases, users, tables, and even get shells.",
+      "items": [],
+      "title": "🧬 SQLMap – SQL Injection Automation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "File Hacking"
+    },
+    {
+      "description": "PDFs in CTFs often hide flags using layers, compression, white text, or embedded objects.",
+      "items": [],
+      "title": "📄 Extract Hidden Text from PDF Files"
+    },
+    {
+      "description": "In CTFs, compressed files may hide flags deeply nested or disguised using alternate extensions or embedded formats.",
+      "items": [],
+      "title": "📦 Compressed File Extraction"
+    },
+    {
+      "description": "CTF files often hide flags in binary, encoded, or obfuscated forms. Use basic Linux tools for deep inspection.",
+      "items": [],
+      "title": "🧵 Extract Hidden Strings"
+    },
+    {
+      "description": "If you see patterns like:\nThe ending suggests base64 encoding:",
+      "items": [],
+      "title": "🔐 Detect Base64 (Common in CTFs)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📡 Runtime Tracing (Dynamic Analysis)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Cryptography"
+    },
+    {
+      "description": "A Caesar cipher is a simple substitution cipher where each letter is shifted by a fixed number in the alphabet.",
+      "items": [],
+      "title": "🔐 Caesar Cipher"
+    },
+    {
+      "description": "The Vigenère cipher is a polyalphabetic substitution cipher that uses a repeating key to shift letters.",
+      "items": [],
+      "title": "🧩 Vigenère Cipher"
+    },
+    {
+      "description": "The One-Time Pad is an unbreakable cipher when used properly (random key, used once, same length as plaintext). In CTFs, it's often improperly implemented—making it crackable.",
+      "items": [],
+      "title": "🗝️ One-Time Pad (OTP) Cipher"
+    },
+    {
+      "description": "If OTP is a red herring and you find an file, use to crack it:",
+      "items": [],
+      "title": "🧠 CTF Use Case: SSH Private Key Cracking"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Forensics"
+    },
+    {
+      "description": "Images often hide flags using steganography, metadata, or embedded file structures.",
+      "items": [],
+      "title": "🖼️ Image File Analysis"
+    },
+    {
+      "description": "is used to analyze binary files (like images or firmware) for embedded files, compressed archives, or hidden content.",
+      "items": [],
+      "title": "🧪 Binwalk – Embedded Data Extraction"
+    },
+    {
+      "description": "You can extract it manually:",
+      "items": [],
+      "title": "🧠 If ZIP/Archive Is Detected"
+    },
+    {
+      "description": "NTFS files may contain hidden data, alternate streams, or partitioned content—commonly leveraged in CTFs.",
+      "items": [],
+      "title": "💽 Extract NTFS Filesystem"
+    },
+    {
+      "description": "Use this method to image and extract deleted file systems remotely—commonly required in forensic or IR-based CTFs.",
+      "items": [],
+      "title": "🧷 Recover Files from Deleted File Systems (Remote Forensics)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📦 Step 2: Decompress Image Locally"
+    },
+    {
+      "description": "In CTFs, or files may contain USB keyboard traffic, especially when analyzing hardware-level challenges.",
+      "items": [],
+      "title": "📡 Packet Capture – USB Keystroke Recovery"
+    },
+    {
+      "description": "Follow this detailed article: 👉 Reverse USB Keystrokes from PCAP (Kaizen CTF)",
+      "items": [],
+      "title": "🧠 Full Guide for Decoding USB Input"
+    },
+    {
+      "description": "Obfuscated JavaScript is often used in web-based CTFs to hide logic, flags, or backdoor payloads.",
+      "items": [],
+      "title": "📜 JavaScript Deobfuscator"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Password Cracking"
+    },
+    {
+      "description": "If the challenge references \"JOHN\", it's likely hinting at using John the Ripper to crack hashes or protected archives.",
+      "items": [],
+      "title": "🔑 JOHN the Ripper – Password Cracking"
+    },
+    {
+      "description": "Or use [hash-identifier] or [NameThatHash].",
+      "items": [],
+      "title": "🔍 Identify Hash Type (if needed)"
+    },
+    {
+      "description": "SAM (Security Account Manager) stores hashed passwords for Windows accounts. In CTFs, it’s often extracted from mounted or disk files.",
+      "items": [],
+      "title": "🧬 SAM Hashes – Windows User Password Dump"
+    },
+    {
+      "description": "1️⃣ Copy the SAM and SYSTEM files:\n2️⃣ Organize files:\n3️⃣ Dump hashes using :\n✅ You’ll get outputs like:",
+      "items": [],
+      "title": "🔓 Extract and Dump Hashes"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🔓 Crack with John the Ripper"
+    },
+    {
+      "description": "Hashcat is a powerful tool to crack hashes using GPU acceleration—ideal for large datasets or tougher hashes.",
+      "items": [],
+      "title": "🔓 Hashcat – GPU-Accelerated Password Cracking"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🔢 Common Hash Modes (Use correct ):"
+    },
+    {
+      "description": "To extract and crack a password-protected archive, use from the John the Ripper suite.",
+      "items": [],
+      "title": "📦 7z Password Cracking"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🔧 Convert to Hash Format:"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🔓 Crack with John:"
+    },
+    {
+      "description": "If given an encrypted SSH private key (), you can recover its password using .",
+      "items": [],
+      "title": "🔐 SSH Private Key Cracking"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🔧 Convert Key to Hash Format:"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🔓 Crack with John:"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Privilige Escalation"
+    },
+    {
+      "description": "Use these tools to automate privilege escalation, system enumeration, and data decoding—critical for post-exploitation in CTFs.",
+      "items": [],
+      "title": "🧰 Standard Scripts for Enumeration (CTF Cheatsheet)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📋 PEASS-ng (Linux)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T23:41:22Z",
+            "owner": "peass-ng",
+            "repo": "PEASS-ng",
+            "stars": 20312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔍 LinEnum",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-09-06T18:02:29Z",
+            "owner": "rebootuser",
+            "repo": "LinEnum",
+            "stars": 8000
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧠 LinuxPrivChecker",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-31T10:32:08Z",
+            "owner": "sleventyeleven",
+            "repo": "linuxprivchecker",
+            "stars": 1825
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧾 Unix-PrivEsc-Check",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-02-07T21:47:46Z",
+            "owner": "pentestmonkey",
+            "repo": "unix-privesc-check",
+            "stars": 1080
+          }
+        }
+      ],
+      "title": "🐧 Linux Enumeration"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📋 PEASS-ng (Windows)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T23:41:22Z",
+            "owner": "peass-ng",
+            "repo": "PEASS-ng",
+            "stars": 20312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔎 JAWS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2021-04-19T14:53:29Z",
+            "owner": "411Hall",
+            "repo": "JAWS",
+            "stars": 1983
+          }
+        }
+      ],
+      "title": "🪟 Windows Enumeration"
+    },
+    {
+      "description": "Exploit older Linux kernels with DirtyCow:👉 PoC Code: dirty.c",
+      "items": [],
+      "title": "🐮 DirtyCow (Linux Privilege Escalation)"
+    },
+    {
+      "description": "Check sudo privileges:\nCommon exploit patterns:",
+      "items": [],
+      "title": "🔐 Sudo Exploitation"
+    },
+    {
+      "description": "MySQL Shell:\nVIM Shell:",
+      "items": [],
+      "title": "🛢️ MySQL & VIM Privilege Escalation"
+    },
+    {
+      "description": "Monitor system jobs:\nOverride input:",
+      "items": [],
+      "title": "⏱️ Cron Job Exploitation"
+    },
+    {
+      "description": "If executed via a privileged script:\nExample within VIM/Journalctl:",
+      "items": [],
+      "title": "📜 Exploiting More / Less or Journalctl"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🧬 Improve Reverse Shell"
+    },
+    {
+      "description": "Linux:\nWindows:",
+      "items": [],
+      "title": "📂 Transfer Files (Host → Victim)"
+    },
+    {
+      "description": "If login successful:",
+      "items": [],
+      "title": "📁 FTP Access"
+    },
+    {
+      "description": "Multi-threaded recon and service enumeration: 👉 Reconnoitre Tool",
+      "items": [],
+      "title": "🕵️ Reconnoitre – Enumeration Automation"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:02:14.891Z",
+    "original_repository": "uppusaikiran/awesome-ctf-cheatsheet",
+    "original_repository_sha": "ca4910ad5cab53943e8c58110f5db7b134d3d05d",
+    "enhanced_repository": "enhansome/enhansome-ctf-cheatsheet",
+    "enhanced_repository_description": null,
+    "title": "Awesome Capture the Flag Cheatsheet with stars"
+  }
+}
