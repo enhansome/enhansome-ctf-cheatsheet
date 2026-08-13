@@ -234,7 +234,7 @@
             "last_commit": "2026-07-19T05:16:40Z",
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 14974
+            "stars": 14979
           }
         },
         {
@@ -248,7 +248,7 @@
             "last_commit": "2024-08-02T00:00:30Z",
             "owner": "aboul3la",
             "repo": "Sublist3r",
-            "stars": 11018
+            "stars": 11019
           }
         }
       ],
@@ -503,7 +503,7 @@
             "last_commit": "2026-08-11T23:41:22Z",
             "owner": "peass-ng",
             "repo": "PEASS-ng",
-            "stars": 20312
+            "stars": 20315
           }
         },
         {
@@ -565,7 +565,7 @@
             "last_commit": "2026-08-11T23:41:22Z",
             "owner": "peass-ng",
             "repo": "PEASS-ng",
-            "stars": 20312
+            "stars": 20315
           }
         },
         {
@@ -632,7 +632,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:02:14.891Z",
+    "last_updated": "2026-08-13T20:58:23.400Z",
     "original_repository": "uppusaikiran/awesome-ctf-cheatsheet",
     "original_repository_sha": "ca4910ad5cab53943e8c58110f5db7b134d3d05d",
     "enhanced_repository": "enhansome/enhansome-ctf-cheatsheet",
