@@ -234,7 +234,7 @@
             "last_commit": "2026-07-19T05:16:40Z",
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 14985
+            "stars": 14989
           }
         },
         {
@@ -500,10 +500,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T12:00:10Z",
+            "last_commit": "2026-08-17T05:40:59Z",
             "owner": "peass-ng",
             "repo": "PEASS-ng",
-            "stars": 20329
+            "stars": 20332
           }
         },
         {
@@ -562,10 +562,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T12:00:10Z",
+            "last_commit": "2026-08-17T05:40:59Z",
             "owner": "peass-ng",
             "repo": "PEASS-ng",
-            "stars": 20329
+            "stars": 20332
           }
         },
         {
@@ -632,7 +632,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T20:34:11.449Z",
+    "last_updated": "2026-08-17T20:39:00.213Z",
     "original_repository": "uppusaikiran/awesome-ctf-cheatsheet",
     "original_repository_sha": "ca4910ad5cab53943e8c58110f5db7b134d3d05d",
     "enhanced_repository": "enhansome/enhansome-ctf-cheatsheet",
