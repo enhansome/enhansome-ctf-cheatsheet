@@ -19,7 +19,7 @@
                     "last_commit": "2026-07-19T05:16:40Z",
                     "owner": "owasp-amass",
                     "repo": "amass",
-                    "stars": 15018
+                    "stars": 15027
                   }
                 },
                 {
@@ -34,7 +34,7 @@
                     "last_commit": "2024-08-02T00:00:30Z",
                     "owner": "aboul3la",
                     "repo": "Sublist3r",
-                    "stars": 11023
+                    "stars": 11024
                   }
                 }
               ],
@@ -69,7 +69,7 @@
                     "last_commit": "2026-08-17T05:40:59Z",
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
-                    "stars": 20354
+                    "stars": 20361
                   }
                 },
                 {
@@ -84,7 +84,7 @@
                     "last_commit": "2023-09-06T18:02:29Z",
                     "owner": "rebootuser",
                     "repo": "LinEnum",
-                    "stars": 8008
+                    "stars": 8010
                   }
                 },
                 {
@@ -99,7 +99,7 @@
                     "last_commit": "2022-01-31T10:32:08Z",
                     "owner": "sleventyeleven",
                     "repo": "linuxprivchecker",
-                    "stars": 1829
+                    "stars": 1830
                   }
                 },
                 {
@@ -136,7 +136,7 @@
                     "last_commit": "2026-08-17T05:40:59Z",
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
-                    "stars": 20354
+                    "stars": 20361
                   }
                 },
                 {
@@ -151,7 +151,7 @@
                     "last_commit": "2021-04-19T14:53:29Z",
                     "owner": "411Hall",
                     "repo": "JAWS",
-                    "stars": 1987
+                    "stars": 1989
                   }
                 }
               ],
@@ -169,7 +169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T20:35:28.736Z",
+    "last_updated": "2026-08-23T20:35:15.717Z",
     "original_repository": "uppusaikiran/awesome-ctf-cheatsheet",
     "original_repository_id": 239819765,
     "original_repository_sha": "ca4910ad5cab53943e8c58110f5db7b134d3d05d",
