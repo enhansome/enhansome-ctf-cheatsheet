@@ -19,7 +19,7 @@
                     "last_commit": "2026-07-19T05:16:40Z",
                     "owner": "owasp-amass",
                     "repo": "amass",
-                    "stars": 15027
+                    "stars": 15032
                   }
                 },
                 {
@@ -41,6 +41,28 @@
               "description": null,
               "node_type": "group",
               "title": "🌐 Subdomain & Certificate Enumeration"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Clear Text Password Dataset",
+                  "description": "Build realistic password lists.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 114227052,
+                    "language": "Python",
+                    "last_commit": "2021-06-29T21:11:37Z",
+                    "owner": "philipperemy",
+                    "repo": "tensorflow-1.4-billion-password-analysis",
+                    "stars": 1951
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "📧 Email & Breach Lookup"
             }
           ],
           "description": "Recon is critical in CTFs. Use these tools to gather intelligence before exploiting.",
@@ -66,10 +88,10 @@
                     "archived": false,
                     "id": 165548191,
                     "language": "C#",
-                    "last_commit": "2026-08-17T05:40:59Z",
+                    "last_commit": "2026-08-24T11:24:17Z",
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
-                    "stars": 20361
+                    "stars": 20366
                   }
                 },
                 {
@@ -84,7 +106,7 @@
                     "last_commit": "2023-09-06T18:02:29Z",
                     "owner": "rebootuser",
                     "repo": "LinEnum",
-                    "stars": 8010
+                    "stars": 8011
                   }
                 },
                 {
@@ -99,7 +121,7 @@
                     "last_commit": "2022-01-31T10:32:08Z",
                     "owner": "sleventyeleven",
                     "repo": "linuxprivchecker",
-                    "stars": 1830
+                    "stars": 1832
                   }
                 },
                 {
@@ -133,10 +155,10 @@
                     "archived": false,
                     "id": 165548191,
                     "language": "C#",
-                    "last_commit": "2026-08-17T05:40:59Z",
+                    "last_commit": "2026-08-24T11:24:17Z",
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
-                    "stars": 20361
+                    "stars": 20366
                   }
                 },
                 {
@@ -151,25 +173,91 @@
                     "last_commit": "2021-04-19T14:53:29Z",
                     "owner": "411Hall",
                     "repo": "JAWS",
-                    "stars": 1989
+                    "stars": 1990
                   }
                 }
               ],
               "description": null,
               "node_type": "group",
               "title": "🪟 Windows Enumeration"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "⏱️ pspy",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 120821432,
+                    "language": "Go",
+                    "last_commit": "2026-03-01T09:06:16Z",
+                    "owner": "DominicBreuker",
+                    "repo": "pspy",
+                    "stars": 6155
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "🕵️ Runtime Process/Job Monitoring"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "🧪 CyberChef",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 74962515,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-21T02:06:22Z",
+                    "owner": "gchq",
+                    "repo": "CyberChef",
+                    "stars": 35656
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "🧬 Data Analysis & Decoding"
             }
           ],
           "description": "Use these tools to automate privilege escalation, system enumeration, and data decoding—critical for post-exploitation in CTFs.",
           "node_type": "group",
           "title": "🧰 Standard Scripts for Enumeration (CTF Cheatsheet)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Sherlock (Privilege Suggestor)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 86997630,
+                "language": "PowerShell",
+                "last_commit": "2018-10-10T09:10:45Z",
+                "owner": "rasta-mouse",
+                "repo": "Sherlock",
+                "stars": 2020
+              }
+            }
+          ],
+          "description": "In Meterpreter:\n🔍 Other Tools:\n🧬 Migrate Process:\nShell Delivery:",
+          "node_type": "group",
+          "title": "🪟 Windows Privilege Escalation"
         }
       ],
       "title": "Privilige Escalation"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T20:35:15.717Z",
+    "last_updated": "2026-08-24T14:36:16.176Z",
     "original_repository": "uppusaikiran/awesome-ctf-cheatsheet",
     "original_repository_id": 239819765,
     "original_repository_sha": "ca4910ad5cab53943e8c58110f5db7b134d3d05d",
