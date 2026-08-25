@@ -19,7 +19,7 @@
                     "last_commit": "2026-07-19T05:16:40Z",
                     "owner": "owasp-amass",
                     "repo": "amass",
-                    "stars": 15037
+                    "stars": 15042
                   }
                 },
                 {
@@ -91,7 +91,7 @@
                     "last_commit": "2026-08-24T11:24:17Z",
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
-                    "stars": 20372
+                    "stars": 20376
                   }
                 },
                 {
@@ -106,7 +106,7 @@
                     "last_commit": "2023-09-06T18:02:29Z",
                     "owner": "rebootuser",
                     "repo": "LinEnum",
-                    "stars": 8012
+                    "stars": 8011
                   }
                 },
                 {
@@ -158,7 +158,7 @@
                     "last_commit": "2026-08-24T11:24:17Z",
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
-                    "stars": 20372
+                    "stars": 20376
                   }
                 },
                 {
@@ -173,7 +173,7 @@
                     "last_commit": "2021-04-19T14:53:29Z",
                     "owner": "411Hall",
                     "repo": "JAWS",
-                    "stars": 1990
+                    "stars": 1991
                   }
                 }
               ],
@@ -217,7 +217,7 @@
                     "last_commit": "2026-08-21T02:06:22Z",
                     "owner": "gchq",
                     "repo": "CyberChef",
-                    "stars": 35663
+                    "stars": 35667
                   }
                 }
               ],
@@ -257,7 +257,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:30:31.850Z",
+    "last_updated": "2026-08-25T20:41:09.763Z",
     "original_repository": "uppusaikiran/awesome-ctf-cheatsheet",
     "original_repository_id": 239819765,
     "original_repository_sha": "ca4910ad5cab53943e8c58110f5db7b134d3d05d",
