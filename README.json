@@ -19,7 +19,7 @@
                     "last_commit": "2026-07-19T05:16:40Z",
                     "owner": "owasp-amass",
                     "repo": "amass",
-                    "stars": 15042
+                    "stars": 15047
                   }
                 },
                 {
@@ -34,7 +34,7 @@
                     "last_commit": "2024-08-02T00:00:30Z",
                     "owner": "aboul3la",
                     "repo": "Sublist3r",
-                    "stars": 11024
+                    "stars": 11023
                   }
                 }
               ],
@@ -56,7 +56,7 @@
                     "last_commit": "2021-06-29T21:11:37Z",
                     "owner": "philipperemy",
                     "repo": "tensorflow-1.4-billion-password-analysis",
-                    "stars": 1951
+                    "stars": 1952
                   }
                 }
               ],
@@ -91,7 +91,7 @@
                     "last_commit": "2026-08-24T11:24:17Z",
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
-                    "stars": 20376
+                    "stars": 20381
                   }
                 },
                 {
@@ -106,7 +106,7 @@
                     "last_commit": "2023-09-06T18:02:29Z",
                     "owner": "rebootuser",
                     "repo": "LinEnum",
-                    "stars": 8011
+                    "stars": 8012
                   }
                 },
                 {
@@ -121,7 +121,7 @@
                     "last_commit": "2022-01-31T10:32:08Z",
                     "owner": "sleventyeleven",
                     "repo": "linuxprivchecker",
-                    "stars": 1832
+                    "stars": 1833
                   }
                 },
                 {
@@ -158,7 +158,7 @@
                     "last_commit": "2026-08-24T11:24:17Z",
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
-                    "stars": 20376
+                    "stars": 20381
                   }
                 },
                 {
@@ -173,7 +173,7 @@
                     "last_commit": "2021-04-19T14:53:29Z",
                     "owner": "411Hall",
                     "repo": "JAWS",
-                    "stars": 1991
+                    "stars": 1993
                   }
                 }
               ],
@@ -217,7 +217,7 @@
                     "last_commit": "2026-08-21T02:06:22Z",
                     "owner": "gchq",
                     "repo": "CyberChef",
-                    "stars": 35667
+                    "stars": 35679
                   }
                 }
               ],
@@ -257,7 +257,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T20:41:09.763Z",
+    "last_updated": "2026-08-26T23:25:58.482Z",
     "original_repository": "uppusaikiran/awesome-ctf-cheatsheet",
     "original_repository_id": 239819765,
     "original_repository_sha": "ca4910ad5cab53943e8c58110f5db7b134d3d05d",

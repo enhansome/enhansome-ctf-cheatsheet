@@ -988,8 +988,8 @@ Recon is critical in CTFs. Use these tools to gather intelligence before exploit
 
 #### 🌐 Subdomain & Certificate Enumeration
 
-* [**Amass**](https://github.com/owasp-amass/amass) ⭐ 15,042 | 🐛 237 | 🌐 Go | 📅 2026-07-19 – Extensive subdomain and DNS enumeration.
-* [**Sublist3r**](https://github.com/aboul3la/Sublist3r) ⭐ 11,024 | 🐛 253 | 🌐 Python | 📅 2024-08-02 – Fast subdomain discovery:
+* [**Amass**](https://github.com/owasp-amass/amass) ⭐ 15,047 | 🐛 238 | 🌐 Go | 📅 2026-07-19 – Extensive subdomain and DNS enumeration.
+* [**Sublist3r**](https://github.com/aboul3la/Sublist3r) ⭐ 11,023 | 🐛 253 | 🌐 Python | 📅 2024-08-02 – Fast subdomain discovery:
   ```bash
   sublist3r -d target.com
   ```
@@ -999,7 +999,7 @@ Recon is critical in CTFs. Use these tools to gather intelligence before exploit
 
 #### 📧 Email & Breach Lookup
 
-* [Clear Text Password Dataset](https://github.com/philipperemy/tensorflow-1.4-billion-password-analysis) ⭐ 1,951 | 🐛 30 | 🌐 Python | 📅 2021-06-29 – Build realistic password lists.
+* [Clear Text Password Dataset](https://github.com/philipperemy/tensorflow-1.4-billion-password-analysis) ⭐ 1,952 | 🐛 30 | 🌐 Python | 📅 2021-06-29 – Build realistic password lists.
 * [**Hunter.io**](https://hunter.io) – Discover associated emails.
 * [**HaveIBeenPwned**](https://haveibeenpwned.com/) – Check email breach exposure.
 
@@ -2405,13 +2405,13 @@ Use these tools to automate **privilege escalation**, **system enumeration**, an
 
 #### 🐧 Linux Enumeration
 
-* 📋 [**PEASS-ng (Linux)**](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite) ⭐ 20,376 | 🐛 0 | 🌐 C# | 📅 2026-08-24
+* 📋 [**PEASS-ng (Linux)**](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite) ⭐ 20,381 | 🐛 0 | 🌐 C# | 📅 2026-08-24
   * `linpeas.sh` – Most comprehensive local enumeration script.
 
-* 🔍 [**LinEnum**](https://github.com/rebootuser/LinEnum) ⭐ 8,011 | 🐛 25 | 🌐 Shell | 📅 2023-09-06
+* 🔍 [**LinEnum**](https://github.com/rebootuser/LinEnum) ⭐ 8,012 | 🐛 25 | 🌐 Shell | 📅 2023-09-06
   * Automates full Linux system enumeration—users, crons, SUIDs, kernels.
 
-* 🧠 [**LinuxPrivChecker**](https://github.com/sleventyeleven/linuxprivchecker) ⭐ 1,832 | 🐛 1 | 🌐 Python | 📅 2022-01-31
+* 🧠 [**LinuxPrivChecker**](https://github.com/sleventyeleven/linuxprivchecker) ⭐ 1,833 | 🐛 1 | 🌐 Python | 📅 2022-01-31
   * Python-based privilege escalation checker (great for local root).
 
 * 🧾 [**Unix-PrivEsc-Check**](https://github.com/pentestmonkey/unix-privesc-check) ⭐ 1,082 | 🐛 27 | 🌐 Shell | 📅 2021-02-07
@@ -2421,10 +2421,10 @@ Use these tools to automate **privilege escalation**, **system enumeration**, an
 
 #### 🪟 Windows Enumeration
 
-* 📋 [**PEASS-ng (Windows)**](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite) ⭐ 20,376 | 🐛 0 | 🌐 C# | 📅 2026-08-24
+* 📋 [**PEASS-ng (Windows)**](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite) ⭐ 20,381 | 🐛 0 | 🌐 C# | 📅 2026-08-24
   * `winPEAS.exe` – Deep enumeration of Windows services, tasks, misconfigs.
 
-* 🔎 [**JAWS**](https://github.com/411Hall/JAWS) ⭐ 1,991 | 🐛 5 | 🌐 PowerShell | 📅 2021-04-19
+* 🔎 [**JAWS**](https://github.com/411Hall/JAWS) ⭐ 1,993 | 🐛 5 | 🌐 PowerShell | 📅 2021-04-19
   * PowerShell script to scan Windows for escalation paths.
 
 ***
@@ -2448,7 +2448,7 @@ Use these tools to automate **privilege escalation**, **system enumeration**, an
 
 #### 🧬 Data Analysis & Decoding
 
-* 🧪 [**CyberChef**](https://github.com/gchq/CyberChef) ⭐ 35,667 | 🐛 556 | 🌐 JavaScript | 📅 2026-08-21
+* 🧪 [**CyberChef**](https://github.com/gchq/CyberChef) ⭐ 35,679 | 🐛 556 | 🌐 JavaScript | 📅 2026-08-21
   * "The Cyber Swiss Army Knife" for base64, hex, XOR, encodings, regex, and more.
   * Web Version: [CyberChef Online](https://gchq.github.io/CyberChef/)
 
@@ -2619,7 +2619,7 @@ rename id_rsa.pub .ssh/authorized_keys
 ### 🕵️ Reconnoitre – Enumeration Automation
 
 Multi-threaded recon and service enumeration:
-👉 [Reconnoitre Tool](https://github.com/codingo/Reconnoitre) ⭐ 2,195 | 🐛 12 | 🌐 Python | 📅 2022-12-11
+👉 [Reconnoitre Tool](https://github.com/codingo/Reconnoitre) ⭐ 2,196 | 🐛 12 | 🌐 Python | 📅 2022-12-11
 
 ```bash
 reconnoitre -t <TARGET_IP> -o `pwd` --services
@@ -2629,4 +2629,4 @@ reconnoitre -t <TARGET_IP> -o `pwd` --services
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
