@@ -19,8 +19,9 @@
                     "last_commit": "2026-07-19T05:16:40Z",
                     "owner": "owasp-amass",
                     "repo": "amass",
-                    "stars": 15049
-                  }
+                    "stars": 15053
+                  },
+                  "first_seen": "2026-08-28T04:21:04.524Z"
                 },
                 {
                   "node_type": "item",
@@ -34,8 +35,9 @@
                     "last_commit": "2024-08-02T00:00:30Z",
                     "owner": "aboul3la",
                     "repo": "Sublist3r",
-                    "stars": 11023
-                  }
+                    "stars": 11024
+                  },
+                  "first_seen": "2026-08-28T04:21:04.524Z"
                 }
               ],
               "description": null,
@@ -57,7 +59,8 @@
                     "owner": "philipperemy",
                     "repo": "tensorflow-1.4-billion-password-analysis",
                     "stars": 1952
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:21:04.524Z"
                 }
               ],
               "description": null,
@@ -91,8 +94,9 @@
                     "last_commit": "2026-08-24T11:24:17Z",
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
-                    "stars": 20387
-                  }
+                    "stars": 20390
+                  },
+                  "first_seen": "2026-08-28T04:21:04.524Z"
                 },
                 {
                   "node_type": "item",
@@ -106,8 +110,9 @@
                     "last_commit": "2023-09-06T18:02:29Z",
                     "owner": "rebootuser",
                     "repo": "LinEnum",
-                    "stars": 8014
-                  }
+                    "stars": 8015
+                  },
+                  "first_seen": "2026-08-28T04:21:04.524Z"
                 },
                 {
                   "node_type": "item",
@@ -122,7 +127,8 @@
                     "owner": "sleventyeleven",
                     "repo": "linuxprivchecker",
                     "stars": 1834
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:21:04.524Z"
                 },
                 {
                   "node_type": "item",
@@ -137,7 +143,8 @@
                     "owner": "pentestmonkey",
                     "repo": "unix-privesc-check",
                     "stars": 1082
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:21:04.524Z"
                 }
               ],
               "description": null,
@@ -158,8 +165,9 @@
                     "last_commit": "2026-08-24T11:24:17Z",
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
-                    "stars": 20387
-                  }
+                    "stars": 20390
+                  },
+                  "first_seen": "2026-08-28T04:21:04.524Z"
                 },
                 {
                   "node_type": "item",
@@ -174,7 +182,8 @@
                     "owner": "411Hall",
                     "repo": "JAWS",
                     "stars": 1994
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:21:04.524Z"
                 }
               ],
               "description": null,
@@ -195,8 +204,9 @@
                     "last_commit": "2026-03-01T09:06:16Z",
                     "owner": "DominicBreuker",
                     "repo": "pspy",
-                    "stars": 6155
-                  }
+                    "stars": 6157
+                  },
+                  "first_seen": "2026-08-28T04:21:04.524Z"
                 }
               ],
               "description": null,
@@ -214,11 +224,12 @@
                     "archived": false,
                     "id": 74962515,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-27T08:07:15Z",
+                    "last_commit": "2026-08-28T02:07:24Z",
                     "owner": "gchq",
                     "repo": "CyberChef",
-                    "stars": 35682
-                  }
+                    "stars": 35685
+                  },
+                  "first_seen": "2026-08-28T04:21:04.524Z"
                 }
               ],
               "description": null,
@@ -245,7 +256,8 @@
                 "owner": "rasta-mouse",
                 "repo": "Sherlock",
                 "stars": 2020
-              }
+              },
+              "first_seen": "2026-08-28T04:21:04.524Z"
             }
           ],
           "description": "In Meterpreter:\n🔍 Other Tools:\n🧬 Migrate Process:\nShell Delivery:",
@@ -257,7 +269,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:31:28.173Z",
+    "last_updated": "2026-08-28T04:21:04.524Z",
     "original_repository_info": {
       "archived": false,
       "id": 239819765,
