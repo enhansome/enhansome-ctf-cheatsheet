@@ -2405,7 +2405,7 @@ Use these tools to automate **privilege escalation**, **system enumeration**, an
 
 #### 🐧 Linux Enumeration
 
-* 📋 [**PEASS-ng (Linux)**](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite) ⭐ 20,390 | 🐛 0 | 🌐 C# | 📅 2026-08-24
+* 📋 [**PEASS-ng (Linux)**](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite) ⭐ 20,390 | 🐛 1 | 🌐 C# | 📅 2026-08-29
   * `linpeas.sh` – Most comprehensive local enumeration script.
 
 * 🔍 [**LinEnum**](https://github.com/rebootuser/LinEnum) ⭐ 8,017 | 🐛 25 | 🌐 Shell | 📅 2023-09-06
@@ -2421,7 +2421,7 @@ Use these tools to automate **privilege escalation**, **system enumeration**, an
 
 #### 🪟 Windows Enumeration
 
-* 📋 [**PEASS-ng (Windows)**](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite) ⭐ 20,390 | 🐛 0 | 🌐 C# | 📅 2026-08-24
+* 📋 [**PEASS-ng (Windows)**](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite) ⭐ 20,390 | 🐛 1 | 🌐 C# | 📅 2026-08-29
   * `winPEAS.exe` – Deep enumeration of Windows services, tasks, misconfigs.
 
 * 🔎 [**JAWS**](https://github.com/411Hall/JAWS) ⭐ 1,994 | 🐛 5 | 🌐 PowerShell | 📅 2021-04-19
@@ -2448,7 +2448,7 @@ Use these tools to automate **privilege escalation**, **system enumeration**, an
 
 #### 🧬 Data Analysis & Decoding
 
-* 🧪 [**CyberChef**](https://github.com/gchq/CyberChef) ⭐ 35,688 | 🐛 553 | 🌐 JavaScript | 📅 2026-08-28
+* 🧪 [**CyberChef**](https://github.com/gchq/CyberChef) ⭐ 35,689 | 🐛 553 | 🌐 JavaScript | 📅 2026-08-28
   * "The Cyber Swiss Army Knife" for base64, hex, XOR, encodings, regex, and more.
   * Web Version: [CyberChef Online](https://gchq.github.io/CyberChef/)
 

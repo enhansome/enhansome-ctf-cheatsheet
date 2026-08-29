@@ -14,12 +14,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "In-depth attack surface mapping and asset discovery",
+                    "homepage": "https://owasp.org/www-project-amass/",
                     "id": 140457254,
                     "language": "Go",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-07-19T05:16:40Z",
+                    "open_issues": 239,
                     "owner": "owasp-amass",
                     "repo": "amass",
-                    "stars": 15057
+                    "stars": 15057,
+                    "topics": [
+                      "attack-surfaces",
+                      "dns",
+                      "enumeration",
+                      "go",
+                      "golang",
+                      "information-gathering",
+                      "maltego",
+                      "network-security",
+                      "osint",
+                      "osint-reconnaissance",
+                      "owasp",
+                      "recon",
+                      "subdomain"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:21:04.524Z"
                 },
@@ -30,12 +49,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Fast subdomains enumeration tool for penetration testers",
+                    "homepage": null,
                     "id": 48010677,
                     "language": "Python",
+                    "license": "GPL-2.0",
                     "last_commit": "2024-08-02T00:00:30Z",
+                    "open_issues": 253,
                     "owner": "aboul3la",
                     "repo": "Sublist3r",
-                    "stars": 11025
+                    "stars": 11025,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:21:04.524Z"
                 }
@@ -53,12 +77,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Deep Learning model to analyze a large corpus of clear text passwords.",
+                    "homepage": null,
                     "id": 114227052,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-06-29T21:11:37Z",
+                    "open_issues": 30,
                     "owner": "philipperemy",
                     "repo": "tensorflow-1.4-billion-password-analysis",
-                    "stars": 1952
+                    "stars": 1952,
+                    "topics": [
+                      "deep-learning",
+                      "natural-language-processing",
+                      "tensorflow"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:21:04.524Z"
                 }
@@ -89,12 +122,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)",
+                    "homepage": "https://book.hacktricks.xyz",
                     "id": 165548191,
                     "language": "C#",
-                    "last_commit": "2026-08-24T11:24:17Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-29T04:36:10Z",
+                    "open_issues": 1,
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
-                    "stars": 20390
+                    "stars": 20390,
+                    "topics": [
+                      "bash",
+                      "batch",
+                      "batch-script",
+                      "color",
+                      "csharp",
+                      "enumeration",
+                      "exe",
+                      "linpe",
+                      "linpeas",
+                      "linux",
+                      "one-liner",
+                      "oneliner",
+                      "peas",
+                      "privesc",
+                      "script",
+                      "shell",
+                      "unix",
+                      "windows",
+                      "winpeas"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:21:04.524Z"
                 },
@@ -105,12 +163,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Scripted Local Linux Enumeration & Privilege Escalation Checks",
+                    "homepage": null,
                     "id": 12236152,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2023-09-06T18:02:29Z",
+                    "open_issues": 25,
                     "owner": "rebootuser",
                     "repo": "LinEnum",
-                    "stars": 8017
+                    "stars": 8017,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:21:04.524Z"
                 },
@@ -121,12 +184,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "linuxprivchecker.py -- a Linux Privilege Escalation Check Script",
+                    "homepage": null,
                     "id": 56599386,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-01-31T10:32:08Z",
+                    "open_issues": 1,
                     "owner": "sleventyeleven",
                     "repo": "linuxprivchecker",
-                    "stars": 1834
+                    "stars": 1834,
+                    "topics": [
+                      "ctf-tools",
+                      "hackthebox",
+                      "htb",
+                      "linux-privilege-escalation",
+                      "linux-security",
+                      "oscp",
+                      "oscp-tools",
+                      "pentest-tools",
+                      "pentesting",
+                      "security"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:21:04.524Z"
                 },
@@ -137,12 +216,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Automatically exported from code.google.com/p/unix-privesc-check",
+                    "homepage": null,
                     "id": 32677065,
                     "language": "Shell",
+                    "license": null,
                     "last_commit": "2021-02-07T21:47:46Z",
+                    "open_issues": 27,
                     "owner": "pentestmonkey",
                     "repo": "unix-privesc-check",
-                    "stars": 1082
+                    "stars": 1082,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:21:04.524Z"
                 }
@@ -160,12 +244,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)",
+                    "homepage": "https://book.hacktricks.xyz",
                     "id": 165548191,
                     "language": "C#",
-                    "last_commit": "2026-08-24T11:24:17Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-29T04:36:10Z",
+                    "open_issues": 1,
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
-                    "stars": 20390
+                    "stars": 20390,
+                    "topics": [
+                      "bash",
+                      "batch",
+                      "batch-script",
+                      "color",
+                      "csharp",
+                      "enumeration",
+                      "exe",
+                      "linpe",
+                      "linpeas",
+                      "linux",
+                      "one-liner",
+                      "oneliner",
+                      "peas",
+                      "privesc",
+                      "script",
+                      "shell",
+                      "unix",
+                      "windows",
+                      "winpeas"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:21:04.524Z"
                 },
@@ -176,12 +285,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "JAWS - Just Another Windows (Enum) Script",
+                    "homepage": null,
                     "id": 100495811,
                     "language": "PowerShell",
+                    "license": "MIT",
                     "last_commit": "2021-04-19T14:53:29Z",
+                    "open_issues": 5,
                     "owner": "411Hall",
                     "repo": "JAWS",
-                    "stars": 1994
+                    "stars": 1994,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:21:04.524Z"
                 }
@@ -199,12 +313,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Monitor linux processes without root permissions",
+                    "homepage": null,
                     "id": 120821432,
                     "language": "Go",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-03-01T09:06:16Z",
+                    "open_issues": 3,
                     "owner": "DominicBreuker",
                     "repo": "pspy",
-                    "stars": 6160
+                    "stars": 6160,
+                    "topics": [
+                      "ctf",
+                      "enumeration",
+                      "golang",
+                      "pentesting",
+                      "privesc",
+                      "security"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:21:04.524Z"
                 }
@@ -222,12 +348,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis",
+                    "homepage": "https://gchq.github.io/CyberChef",
                     "id": 74962515,
                     "language": "JavaScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-28T09:29:59Z",
+                    "open_issues": 553,
                     "owner": "gchq",
                     "repo": "CyberChef",
-                    "stars": 35688
+                    "stars": 35689,
+                    "topics": [
+                      "compression",
+                      "data-analysis",
+                      "data-manipulation",
+                      "encoding",
+                      "encryption",
+                      "hashing",
+                      "parsing"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:21:04.524Z"
                 }
@@ -250,12 +389,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "PowerShell script to quickly find missing software patches for local privilege escalation vulnerabilities.",
+                "homepage": null,
                 "id": 86997630,
                 "language": "PowerShell",
+                "license": "GPL-3.0",
                 "last_commit": "2018-10-10T09:10:45Z",
+                "open_issues": 3,
                 "owner": "rasta-mouse",
                 "repo": "Sherlock",
-                "stars": 2020
+                "stars": 2020,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:21:04.524Z"
             }
@@ -269,15 +413,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:47:48.783Z",
+    "last_updated": "2026-08-29T04:53:48.232Z",
     "original_repository_info": {
       "archived": false,
+      "description": "CTF Cheatsheet",
+      "homepage": "https://uppusaikiran.github.io/hacking/Capture-the-Flag-CheatSheet/",
       "id": 239819765,
       "language": null,
+      "license": "MIT",
       "last_commit": "2025-04-29T23:18:17Z",
+      "open_issues": 0,
       "owner": "uppusaikiran",
       "repo": "awesome-ctf-cheatsheet",
-      "stars": 140
+      "stars": 140,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cheatsheet",
+        "ctf",
+        "hacking",
+        "hacking-tool",
+        "hackthebox",
+        "hackthebox-writeups"
+      ]
     },
     "original_repository_sha": "ca4910ad5cab53943e8c58110f5db7b134d3d05d",
     "enhanced_repository": "enhansome/enhansome-ctf-cheatsheet",
