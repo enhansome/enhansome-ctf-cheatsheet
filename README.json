@@ -23,7 +23,7 @@
                     "open_issues": 239,
                     "owner": "owasp-amass",
                     "repo": "amass",
-                    "stars": 15073,
+                    "stars": 15082,
                     "topics": [
                       "attack-surfaces",
                       "dns",
@@ -58,7 +58,7 @@
                     "open_issues": 254,
                     "owner": "aboul3la",
                     "repo": "Sublist3r",
-                    "stars": 11025,
+                    "stars": 11028,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:21:04.524Z"
@@ -131,7 +131,7 @@
                     "open_issues": 0,
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
-                    "stars": 20404,
+                    "stars": 20407,
                     "topics": [
                       "bash",
                       "batch",
@@ -172,7 +172,7 @@
                     "open_issues": 25,
                     "owner": "rebootuser",
                     "repo": "LinEnum",
-                    "stars": 8019,
+                    "stars": 8021,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:21:04.524Z"
@@ -190,10 +190,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2022-01-31T10:32:08Z",
-                    "open_issues": 1,
+                    "open_issues": 0,
                     "owner": "sleventyeleven",
                     "repo": "linuxprivchecker",
-                    "stars": 1837,
+                    "stars": 1838,
                     "topics": [
                       "ctf-tools",
                       "hackthebox",
@@ -253,7 +253,7 @@
                     "open_issues": 0,
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
-                    "stars": 20404,
+                    "stars": 20407,
                     "topics": [
                       "bash",
                       "batch",
@@ -294,7 +294,7 @@
                     "open_issues": 5,
                     "owner": "411Hall",
                     "repo": "JAWS",
-                    "stars": 1997,
+                    "stars": 1998,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:21:04.524Z"
@@ -322,7 +322,7 @@
                     "open_issues": 3,
                     "owner": "DominicBreuker",
                     "repo": "pspy",
-                    "stars": 6162,
+                    "stars": 6163,
                     "topics": [
                       "ctf",
                       "enumeration",
@@ -357,7 +357,7 @@
                     "open_issues": 551,
                     "owner": "gchq",
                     "repo": "CyberChef",
-                    "stars": 35698,
+                    "stars": 35708,
                     "topics": [
                       "compression",
                       "data-analysis",
@@ -413,7 +413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T22:41:52.811Z",
+    "last_updated": "2026-08-31T23:47:33.269Z",
     "original_repository_info": {
       "archived": false,
       "description": "CTF Cheatsheet",
