@@ -988,8 +988,8 @@ Recon is critical in CTFs. Use these tools to gather intelligence before exploit
 
 #### 🌐 Subdomain & Certificate Enumeration
 
-* [**Amass**](https://github.com/owasp-amass/amass) ⭐ 15,087 | 🐛 242 | 🌐 Go | 📅 2026-07-19 – Extensive subdomain and DNS enumeration.
-* [**Sublist3r**](https://github.com/aboul3la/Sublist3r) ⭐ 11,030 | 🐛 254 | 🌐 Python | 📅 2024-08-02 – Fast subdomain discovery:
+* [**Amass**](https://github.com/owasp-amass/amass) ⭐ 15,090 | 🐛 242 | 🌐 Go | 📅 2026-07-19 – Extensive subdomain and DNS enumeration.
+* [**Sublist3r**](https://github.com/aboul3la/Sublist3r) ⭐ 11,031 | 🐛 254 | 🌐 Python | 📅 2024-08-02 – Fast subdomain discovery:
   ```bash
   sublist3r -d target.com
   ```
@@ -2405,10 +2405,10 @@ Use these tools to automate **privilege escalation**, **system enumeration**, an
 
 #### 🐧 Linux Enumeration
 
-* 📋 [**PEASS-ng (Linux)**](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite) ⭐ 20,419 | 🐛 1 | 🌐 C# | 📅 2026-09-01
+* 📋 [**PEASS-ng (Linux)**](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite) ⭐ 20,424 | 🐛 1 | 🌐 C# | 📅 2026-09-01
   * `linpeas.sh` – Most comprehensive local enumeration script.
 
-* 🔍 [**LinEnum**](https://github.com/rebootuser/LinEnum) ⭐ 8,023 | 🐛 25 | 🌐 Shell | 📅 2023-09-06
+* 🔍 [**LinEnum**](https://github.com/rebootuser/LinEnum) ⭐ 8,025 | 🐛 25 | 🌐 Shell | 📅 2023-09-06
   * Automates full Linux system enumeration—users, crons, SUIDs, kernels.
 
 * 🧠 [**LinuxPrivChecker**](https://github.com/sleventyeleven/linuxprivchecker) ⭐ 1,839 | 🐛 0 | 🌐 Python | 📅 2022-01-31
@@ -2421,17 +2421,17 @@ Use these tools to automate **privilege escalation**, **system enumeration**, an
 
 #### 🪟 Windows Enumeration
 
-* 📋 [**PEASS-ng (Windows)**](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite) ⭐ 20,419 | 🐛 1 | 🌐 C# | 📅 2026-09-01
+* 📋 [**PEASS-ng (Windows)**](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite) ⭐ 20,424 | 🐛 1 | 🌐 C# | 📅 2026-09-01
   * `winPEAS.exe` – Deep enumeration of Windows services, tasks, misconfigs.
 
-* 🔎 [**JAWS**](https://github.com/411Hall/JAWS) ⭐ 1,998 | 🐛 5 | 🌐 PowerShell | 📅 2021-04-19
+* 🔎 [**JAWS**](https://github.com/411Hall/JAWS) ⭐ 1,997 | 🐛 5 | 🌐 PowerShell | 📅 2021-04-19
   * PowerShell script to scan Windows for escalation paths.
 
 ***
 
 #### 🕵️ Runtime Process/Job Monitoring
 
-* ⏱️ [**pspy**](https://github.com/DominicBreuker/pspy) ⭐ 6,167 | 🐛 3 | 🌐 Go | 📅 2026-03-01
+* ⏱️ [**pspy**](https://github.com/DominicBreuker/pspy) ⭐ 6,169 | 🐛 3 | 🌐 Go | 📅 2026-03-01
   * Observe **cronjobs**, **timed scripts**, or **root-executed processes** without root.
 
 ***
@@ -2448,7 +2448,7 @@ Use these tools to automate **privilege escalation**, **system enumeration**, an
 
 #### 🧬 Data Analysis & Decoding
 
-* 🧪 [**CyberChef**](https://github.com/gchq/CyberChef) ⭐ 35,715 | 🐛 554 | 🌐 JavaScript | 📅 2026-09-02
+* 🧪 [**CyberChef**](https://github.com/gchq/CyberChef) ⭐ 35,729 | 🐛 561 | 🌐 JavaScript | 📅 2026-09-03
   * "The Cyber Swiss Army Knife" for base64, hex, XOR, encodings, regex, and more.
   * Web Version: [CyberChef Online](https://gchq.github.io/CyberChef/)
 
@@ -2629,4 +2629,4 @@ reconnoitre -t <TARGET_IP> -o `pwd` --services
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
