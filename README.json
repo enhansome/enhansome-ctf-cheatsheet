@@ -23,7 +23,7 @@
                     "open_issues": 242,
                     "owner": "owasp-amass",
                     "repo": "amass",
-                    "stars": 15150,
+                    "stars": 15153,
                     "topics": [
                       "attack-surfaces",
                       "dns",
@@ -58,7 +58,7 @@
                     "open_issues": 254,
                     "owner": "aboul3la",
                     "repo": "Sublist3r",
-                    "stars": 11039,
+                    "stars": 11040,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:21:04.524Z"
@@ -86,7 +86,7 @@
                     "open_issues": 30,
                     "owner": "philipperemy",
                     "repo": "tensorflow-1.4-billion-password-analysis",
-                    "stars": 1953,
+                    "stars": 1954,
                     "topics": [
                       "deep-learning",
                       "natural-language-processing",
@@ -131,7 +131,7 @@
                     "open_issues": 1,
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
-                    "stars": 20512,
+                    "stars": 20514,
                     "topics": [
                       "bash",
                       "batch",
@@ -193,7 +193,7 @@
                     "open_issues": 0,
                     "owner": "sleventyeleven",
                     "repo": "linuxprivchecker",
-                    "stars": 1844,
+                    "stars": 1845,
                     "topics": [
                       "ctf-tools",
                       "hackthebox",
@@ -253,7 +253,7 @@
                     "open_issues": 1,
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
-                    "stars": 20512,
+                    "stars": 20514,
                     "topics": [
                       "bash",
                       "batch",
@@ -294,7 +294,7 @@
                     "open_issues": 5,
                     "owner": "411Hall",
                     "repo": "JAWS",
-                    "stars": 2000,
+                    "stars": 2001,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:21:04.524Z"
@@ -354,10 +354,10 @@
                     "language": "JavaScript",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-11T16:06:34Z",
-                    "open_issues": 583,
+                    "open_issues": 593,
                     "owner": "gchq",
                     "repo": "CyberChef",
-                    "stars": 35816,
+                    "stars": 35826,
                     "topics": [
                       "compression",
                       "data-analysis",
@@ -413,7 +413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T22:13:01.251Z",
+    "last_updated": "2026-09-13T22:22:21.546Z",
     "original_repository_info": {
       "archived": false,
       "description": "CTF Cheatsheet",
