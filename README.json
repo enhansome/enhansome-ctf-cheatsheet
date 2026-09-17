@@ -23,7 +23,7 @@
                     "open_issues": 242,
                     "owner": "owasp-amass",
                     "repo": "amass",
-                    "stars": 15171,
+                    "stars": 15176,
                     "topics": [
                       "attack-surfaces",
                       "dns",
@@ -58,7 +58,7 @@
                     "open_issues": 254,
                     "owner": "aboul3la",
                     "repo": "Sublist3r",
-                    "stars": 11042,
+                    "stars": 11040,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:21:04.524Z"
@@ -131,7 +131,7 @@
                     "open_issues": 1,
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
-                    "stars": 20538,
+                    "stars": 20542,
                     "topics": [
                       "bash",
                       "batch",
@@ -172,7 +172,7 @@
                     "open_issues": 25,
                     "owner": "rebootuser",
                     "repo": "LinEnum",
-                    "stars": 8035,
+                    "stars": 8034,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:21:04.524Z"
@@ -253,7 +253,7 @@
                     "open_issues": 1,
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
-                    "stars": 20538,
+                    "stars": 20542,
                     "topics": [
                       "bash",
                       "batch",
@@ -294,7 +294,7 @@
                     "open_issues": 5,
                     "owner": "411Hall",
                     "repo": "JAWS",
-                    "stars": 2004,
+                    "stars": 2002,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:21:04.524Z"
@@ -322,7 +322,7 @@
                     "open_issues": 3,
                     "owner": "DominicBreuker",
                     "repo": "pspy",
-                    "stars": 6180,
+                    "stars": 6179,
                     "topics": [
                       "ctf",
                       "enumeration",
@@ -354,10 +354,10 @@
                     "language": "JavaScript",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-16T17:43:47Z",
-                    "open_issues": 592,
+                    "open_issues": 593,
                     "owner": "gchq",
                     "repo": "CyberChef",
-                    "stars": 35856,
+                    "stars": 35866,
                     "topics": [
                       "compression",
                       "data-analysis",
@@ -398,7 +398,7 @@
                 "open_issues": 3,
                 "owner": "rasta-mouse",
                 "repo": "Sherlock",
-                "stars": 2020,
+                "stars": 2021,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:21:04.524Z"
@@ -413,7 +413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T22:53:28.824Z",
+    "last_updated": "2026-09-17T22:49:48.073Z",
     "original_repository_info": {
       "archived": false,
       "description": "CTF Cheatsheet",
