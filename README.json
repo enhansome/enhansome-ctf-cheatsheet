@@ -23,7 +23,7 @@
                     "open_issues": 244,
                     "owner": "owasp-amass",
                     "repo": "amass",
-                    "stars": 15240,
+                    "stars": 15247,
                     "topics": [
                       "attack-surfaces",
                       "dns",
@@ -127,11 +127,11 @@
                     "id": 165548191,
                     "language": "C#",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-01T23:26:04Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-10-02T17:28:00Z",
+                    "open_issues": 0,
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
-                    "stars": 20597,
+                    "stars": 20600,
                     "topics": [
                       "bash",
                       "batch",
@@ -249,11 +249,11 @@
                     "id": 165548191,
                     "language": "C#",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-01T23:26:04Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-10-02T17:28:00Z",
+                    "open_issues": 0,
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
-                    "stars": 20597,
+                    "stars": 20600,
                     "topics": [
                       "bash",
                       "batch",
@@ -322,7 +322,7 @@
                     "open_issues": 3,
                     "owner": "DominicBreuker",
                     "repo": "pspy",
-                    "stars": 6210,
+                    "stars": 6212,
                     "topics": [
                       "ctf",
                       "enumeration",
@@ -353,11 +353,11 @@
                     "id": 74962515,
                     "language": "JavaScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-26T11:33:12Z",
-                    "open_issues": 586,
+                    "last_commit": "2026-10-02T17:52:21Z",
+                    "open_issues": 590,
                     "owner": "gchq",
                     "repo": "CyberChef",
-                    "stars": 36007,
+                    "stars": 36012,
                     "topics": [
                       "compression",
                       "data-analysis",
@@ -413,7 +413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T23:51:33.691Z",
+    "last_updated": "2026-10-02T23:44:09.549Z",
     "original_repository_info": {
       "archived": false,
       "description": "CTF Cheatsheet",
