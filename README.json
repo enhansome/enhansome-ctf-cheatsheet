@@ -118,7 +118,7 @@
                 {
                   "node_type": "item",
                   "title": "📋 PEASS-ng (Linux)",
-                  "description": null,
+                  "description": "peass-ng/PEASS-ng",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -159,7 +159,7 @@
                 {
                   "node_type": "item",
                   "title": "🔍 LinEnum",
-                  "description": null,
+                  "description": "rebootuser/LinEnum",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -180,7 +180,7 @@
                 {
                   "node_type": "item",
                   "title": "🧠 LinuxPrivChecker",
-                  "description": null,
+                  "description": "sleventyeleven/linuxprivchecker",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -212,7 +212,7 @@
                 {
                   "node_type": "item",
                   "title": "🧾 Unix-PrivEsc-Check",
-                  "description": null,
+                  "description": "pentestmonkey/unix-privesc-check",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -240,7 +240,7 @@
                 {
                   "node_type": "item",
                   "title": "📋 PEASS-ng (Windows)",
-                  "description": null,
+                  "description": "peass-ng/PEASS-ng",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -281,7 +281,7 @@
                 {
                   "node_type": "item",
                   "title": "🔎 JAWS",
-                  "description": null,
+                  "description": "411Hall/JAWS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -309,7 +309,7 @@
                 {
                   "node_type": "item",
                   "title": "⏱️ pspy",
-                  "description": null,
+                  "description": "DominicBreuker/pspy",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -344,7 +344,7 @@
                 {
                   "node_type": "item",
                   "title": "🧪 CyberChef",
-                  "description": null,
+                  "description": "gchq/CyberChef",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -385,7 +385,7 @@
             {
               "node_type": "item",
               "title": "Sherlock (Privilege Suggestor)",
-              "description": null,
+              "description": "rasta-mouse/Sherlock",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -413,7 +413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:44:09.549Z",
+    "last_updated": "2026-10-03T04:39:49.817Z",
     "original_repository_info": {
       "archived": false,
       "description": "CTF Cheatsheet",
