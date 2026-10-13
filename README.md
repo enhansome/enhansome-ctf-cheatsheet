@@ -988,8 +988,8 @@ Recon is critical in CTFs. Use these tools to gather intelligence before exploit
 
 #### 🌐 Subdomain & Certificate Enumeration
 
-* [**Amass**](https://github.com/owasp-amass/amass) ⭐ 15,346 | 🐛 244 | 🌐 Go | 📅 2026-07-19 – Extensive subdomain and DNS enumeration.
-* [**Sublist3r**](https://github.com/aboul3la/Sublist3r) ⭐ 11,056 | 🐛 255 | 🌐 Python | 📅 2024-08-02 – Fast subdomain discovery:
+* [**Amass**](https://github.com/owasp-amass/amass) ⭐ 15,356 | 🐛 244 | 🌐 Go | 📅 2026-07-19 – Extensive subdomain and DNS enumeration.
+* [**Sublist3r**](https://github.com/aboul3la/Sublist3r) ⭐ 11,059 | 🐛 255 | 🌐 Python | 📅 2024-08-02 – Fast subdomain discovery:
   ```bash
   sublist3r -d target.com
   ```
@@ -999,7 +999,7 @@ Recon is critical in CTFs. Use these tools to gather intelligence before exploit
 
 #### 📧 Email & Breach Lookup
 
-* [Clear Text Password Dataset](https://github.com/philipperemy/tensorflow-1.4-billion-password-analysis) ⭐ 1,955 | 🐛 30 | 🌐 Python | 📅 2021-06-29 – Build realistic password lists.
+* [Clear Text Password Dataset](https://github.com/philipperemy/tensorflow-1.4-billion-password-analysis) ⭐ 1,956 | 🐛 30 | 🌐 Python | 📅 2021-06-29 – Build realistic password lists.
 * [**Hunter.io**](https://hunter.io) – Discover associated emails.
 * [**HaveIBeenPwned**](https://haveibeenpwned.com/) – Check email breach exposure.
 
@@ -2405,33 +2405,33 @@ Use these tools to automate **privilege escalation**, **system enumeration**, an
 
 #### 🐧 Linux Enumeration
 
-* 📋 [**PEASS-ng (Linux)**](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite) ⭐ 20,653 | 🐛 0 | 🌐 C# | 📅 2026-10-13
+* 📋 [**PEASS-ng (Linux)**](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite) ⭐ 20,664 | 🐛 0 | 🌐 C# | 📅 2026-10-13
   * `linpeas.sh` – Most comprehensive local enumeration script.
 
-* 🔍 [**LinEnum**](https://github.com/rebootuser/LinEnum) ⭐ 8,055 | 🐛 25 | 🌐 Shell | 📅 2023-09-06
+* 🔍 [**LinEnum**](https://github.com/rebootuser/LinEnum) ⭐ 8,058 | 🐛 25 | 🌐 Shell | 📅 2023-09-06
   * Automates full Linux system enumeration—users, crons, SUIDs, kernels.
 
-* 🧠 [**LinuxPrivChecker**](https://github.com/sleventyeleven/linuxprivchecker) ⭐ 1,853 | 🐛 0 | 🌐 Python | 📅 2022-01-31
+* 🧠 [**LinuxPrivChecker**](https://github.com/sleventyeleven/linuxprivchecker) ⭐ 1,854 | 🐛 0 | 🌐 Python | 📅 2022-01-31
   * Python-based privilege escalation checker (great for local root).
 
-* 🧾 [**Unix-PrivEsc-Check**](https://github.com/pentestmonkey/unix-privesc-check) ⭐ 1,083 | 🐛 27 | 🌐 Shell | 📅 2021-02-07
+* 🧾 [**Unix-PrivEsc-Check**](https://github.com/pentestmonkey/unix-privesc-check) ⭐ 1,082 | 🐛 27 | 🌐 Shell | 📅 2021-02-07
   * Shell script that checks common privilege escalation vectors.
 
 ***
 
 #### 🪟 Windows Enumeration
 
-* 📋 [**PEASS-ng (Windows)**](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite) ⭐ 20,653 | 🐛 0 | 🌐 C# | 📅 2026-10-13
+* 📋 [**PEASS-ng (Windows)**](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite) ⭐ 20,664 | 🐛 0 | 🌐 C# | 📅 2026-10-13
   * `winPEAS.exe` – Deep enumeration of Windows services, tasks, misconfigs.
 
-* 🔎 [**JAWS**](https://github.com/411Hall/JAWS) ⭐ 2,007 | 🐛 6 | 🌐 PowerShell | 📅 2021-04-19
+* 🔎 [**JAWS**](https://github.com/411Hall/JAWS) ⭐ 2,008 | 🐛 6 | 🌐 PowerShell | 📅 2021-04-19
   * PowerShell script to scan Windows for escalation paths.
 
 ***
 
 #### 🕵️ Runtime Process/Job Monitoring
 
-* ⏱️ [**pspy**](https://github.com/DominicBreuker/pspy) ⭐ 6,211 | 🐛 3 | 🌐 Go | 📅 2026-03-01
+* ⏱️ [**pspy**](https://github.com/DominicBreuker/pspy) ⭐ 6,215 | 🐛 3 | 🌐 Go | 📅 2026-03-01
   * Observe **cronjobs**, **timed scripts**, or **root-executed processes** without root.
 
 ***
@@ -2448,7 +2448,7 @@ Use these tools to automate **privilege escalation**, **system enumeration**, an
 
 #### 🧬 Data Analysis & Decoding
 
-* 🧪 [**CyberChef**](https://github.com/gchq/CyberChef) ⭐ 36,093 | 🐛 597 | 🌐 JavaScript | 📅 2026-10-12
+* 🧪 [**CyberChef**](https://github.com/gchq/CyberChef) ⭐ 36,109 | 🐛 597 | 🌐 JavaScript | 📅 2026-10-12
   * "The Cyber Swiss Army Knife" for base64, hex, XOR, encodings, regex, and more.
   * Web Version: [CyberChef Online](https://gchq.github.io/CyberChef/)
 
