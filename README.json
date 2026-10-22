@@ -23,7 +23,7 @@
                     "open_issues": 246,
                     "owner": "owasp-amass",
                     "repo": "amass",
-                    "stars": 15385,
+                    "stars": 15391,
                     "topics": [
                       "attack-surfaces",
                       "dns",
@@ -58,7 +58,7 @@
                     "open_issues": 254,
                     "owner": "aboul3la",
                     "repo": "Sublist3r",
-                    "stars": 11065,
+                    "stars": 11066,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:21:04.524Z"
@@ -86,7 +86,7 @@
                     "open_issues": 30,
                     "owner": "philipperemy",
                     "repo": "tensorflow-1.4-billion-password-analysis",
-                    "stars": 1956,
+                    "stars": 1957,
                     "topics": [
                       "deep-learning",
                       "natural-language-processing",
@@ -127,11 +127,11 @@
                     "id": 165548191,
                     "language": "C#",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-21T13:04:04Z",
-                    "open_issues": 0,
+                    "last_commit": "2026-10-22T21:51:47Z",
+                    "open_issues": 1,
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
-                    "stars": 20709,
+                    "stars": 20711,
                     "topics": [
                       "bash",
                       "batch",
@@ -172,7 +172,7 @@
                     "open_issues": 25,
                     "owner": "rebootuser",
                     "repo": "LinEnum",
-                    "stars": 8069,
+                    "stars": 8072,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:21:04.524Z"
@@ -249,11 +249,11 @@
                     "id": 165548191,
                     "language": "C#",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-21T13:04:04Z",
-                    "open_issues": 0,
+                    "last_commit": "2026-10-22T21:51:47Z",
+                    "open_issues": 1,
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
-                    "stars": 20709,
+                    "stars": 20711,
                     "topics": [
                       "bash",
                       "batch",
@@ -294,7 +294,7 @@
                     "open_issues": 6,
                     "owner": "411Hall",
                     "repo": "JAWS",
-                    "stars": 2011,
+                    "stars": 2014,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:21:04.524Z"
@@ -322,7 +322,7 @@
                     "open_issues": 3,
                     "owner": "DominicBreuker",
                     "repo": "pspy",
-                    "stars": 6220,
+                    "stars": 6221,
                     "topics": [
                       "ctf",
                       "enumeration",
@@ -357,7 +357,7 @@
                     "open_issues": 601,
                     "owner": "gchq",
                     "repo": "CyberChef",
-                    "stars": 36172,
+                    "stars": 36185,
                     "topics": [
                       "compression",
                       "data-analysis",
@@ -413,7 +413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T23:13:51.467Z",
+    "last_updated": "2026-10-22T23:17:32.482Z",
     "original_repository_info": {
       "archived": false,
       "description": "CTF Cheatsheet",
