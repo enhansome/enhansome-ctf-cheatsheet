@@ -20,10 +20,10 @@
                     "language": "Go",
                     "license": "NOASSERTION",
                     "last_commit": "2026-07-19T05:16:40Z",
-                    "open_issues": 246,
+                    "open_issues": 250,
                     "owner": "owasp-amass",
                     "repo": "amass",
-                    "stars": 15391,
+                    "stars": 15401,
                     "topics": [
                       "attack-surfaces",
                       "dns",
@@ -58,7 +58,7 @@
                     "open_issues": 254,
                     "owner": "aboul3la",
                     "repo": "Sublist3r",
-                    "stars": 11066,
+                    "stars": 11068,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:21:04.524Z"
@@ -86,7 +86,7 @@
                     "open_issues": 30,
                     "owner": "philipperemy",
                     "repo": "tensorflow-1.4-billion-password-analysis",
-                    "stars": 1957,
+                    "stars": 1958,
                     "topics": [
                       "deep-learning",
                       "natural-language-processing",
@@ -127,11 +127,11 @@
                     "id": 165548191,
                     "language": "C#",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-22T21:51:47Z",
+                    "last_commit": "2026-10-23T03:02:22Z",
                     "open_issues": 1,
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
-                    "stars": 20711,
+                    "stars": 20714,
                     "topics": [
                       "bash",
                       "batch",
@@ -249,11 +249,11 @@
                     "id": 165548191,
                     "language": "C#",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-22T21:51:47Z",
+                    "last_commit": "2026-10-23T03:02:22Z",
                     "open_issues": 1,
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
-                    "stars": 20711,
+                    "stars": 20714,
                     "topics": [
                       "bash",
                       "batch",
@@ -322,7 +322,7 @@
                     "open_issues": 3,
                     "owner": "DominicBreuker",
                     "repo": "pspy",
-                    "stars": 6221,
+                    "stars": 6224,
                     "topics": [
                       "ctf",
                       "enumeration",
@@ -353,11 +353,11 @@
                     "id": 74962515,
                     "language": "JavaScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-19T04:15:56Z",
+                    "last_commit": "2026-10-23T11:01:21Z",
                     "open_issues": 601,
                     "owner": "gchq",
                     "repo": "CyberChef",
-                    "stars": 36185,
+                    "stars": 36188,
                     "topics": [
                       "compression",
                       "data-analysis",
@@ -413,7 +413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T23:17:32.482Z",
+    "last_updated": "2026-10-23T23:05:03.627Z",
     "original_repository_info": {
       "archived": false,
       "description": "CTF Cheatsheet",
