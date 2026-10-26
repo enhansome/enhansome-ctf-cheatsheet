@@ -86,7 +86,7 @@
                     "open_issues": 30,
                     "owner": "philipperemy",
                     "repo": "tensorflow-1.4-billion-password-analysis",
-                    "stars": 1958,
+                    "stars": 1959,
                     "topics": [
                       "deep-learning",
                       "natural-language-processing",
@@ -127,11 +127,11 @@
                     "id": 165548191,
                     "language": "C#",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-25T12:42:16Z",
+                    "last_commit": "2026-10-26T10:42:27Z",
                     "open_issues": 1,
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
-                    "stars": 20717,
+                    "stars": 20723,
                     "topics": [
                       "bash",
                       "batch",
@@ -172,7 +172,7 @@
                     "open_issues": 25,
                     "owner": "rebootuser",
                     "repo": "LinEnum",
-                    "stars": 8073,
+                    "stars": 8072,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:21:04.524Z"
@@ -193,7 +193,7 @@
                     "open_issues": 0,
                     "owner": "sleventyeleven",
                     "repo": "linuxprivchecker",
-                    "stars": 1859,
+                    "stars": 1858,
                     "topics": [
                       "ctf-tools",
                       "hackthebox",
@@ -249,11 +249,11 @@
                     "id": 165548191,
                     "language": "C#",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-25T12:42:16Z",
+                    "last_commit": "2026-10-26T10:42:27Z",
                     "open_issues": 1,
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
-                    "stars": 20717,
+                    "stars": 20723,
                     "topics": [
                       "bash",
                       "batch",
@@ -322,7 +322,7 @@
                     "open_issues": 3,
                     "owner": "DominicBreuker",
                     "repo": "pspy",
-                    "stars": 6227,
+                    "stars": 6228,
                     "topics": [
                       "ctf",
                       "enumeration",
@@ -354,10 +354,10 @@
                     "language": "JavaScript",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-23T11:01:21Z",
-                    "open_issues": 600,
+                    "open_issues": 596,
                     "owner": "gchq",
                     "repo": "CyberChef",
-                    "stars": 36205,
+                    "stars": 36218,
                     "topics": [
                       "compression",
                       "data-analysis",
@@ -413,7 +413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T22:30:22.804Z",
+    "last_updated": "2026-10-26T23:48:32.159Z",
     "original_repository_info": {
       "archived": false,
       "description": "CTF Cheatsheet",
