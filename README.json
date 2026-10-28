@@ -23,7 +23,7 @@
                     "open_issues": 250,
                     "owner": "owasp-amass",
                     "repo": "amass",
-                    "stars": 15420,
+                    "stars": 15429,
                     "topics": [
                       "attack-surfaces",
                       "dns",
@@ -55,10 +55,10 @@
                     "language": "Python",
                     "license": "GPL-2.0",
                     "last_commit": "2024-08-02T00:00:30Z",
-                    "open_issues": 254,
+                    "open_issues": 253,
                     "owner": "aboul3la",
                     "repo": "Sublist3r",
-                    "stars": 11072,
+                    "stars": 11074,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:21:04.524Z"
@@ -86,7 +86,7 @@
                     "open_issues": 30,
                     "owner": "philipperemy",
                     "repo": "tensorflow-1.4-billion-password-analysis",
-                    "stars": 1959,
+                    "stars": 1958,
                     "topics": [
                       "deep-learning",
                       "natural-language-processing",
@@ -127,11 +127,11 @@
                     "id": 165548191,
                     "language": "C#",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-27T09:26:32Z",
+                    "last_commit": "2026-10-28T13:50:16Z",
                     "open_issues": 1,
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
-                    "stars": 20726,
+                    "stars": 20735,
                     "topics": [
                       "bash",
                       "batch",
@@ -172,7 +172,7 @@
                     "open_issues": 25,
                     "owner": "rebootuser",
                     "repo": "LinEnum",
-                    "stars": 8072,
+                    "stars": 8068,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:21:04.524Z"
@@ -193,7 +193,7 @@
                     "open_issues": 0,
                     "owner": "sleventyeleven",
                     "repo": "linuxprivchecker",
-                    "stars": 1858,
+                    "stars": 1857,
                     "topics": [
                       "ctf-tools",
                       "hackthebox",
@@ -249,11 +249,11 @@
                     "id": 165548191,
                     "language": "C#",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-27T09:26:32Z",
+                    "last_commit": "2026-10-28T13:50:16Z",
                     "open_issues": 1,
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
-                    "stars": 20726,
+                    "stars": 20735,
                     "topics": [
                       "bash",
                       "batch",
@@ -294,7 +294,7 @@
                     "open_issues": 6,
                     "owner": "411Hall",
                     "repo": "JAWS",
-                    "stars": 2014,
+                    "stars": 2015,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:21:04.524Z"
@@ -322,7 +322,7 @@
                     "open_issues": 3,
                     "owner": "DominicBreuker",
                     "repo": "pspy",
-                    "stars": 6229,
+                    "stars": 6230,
                     "topics": [
                       "ctf",
                       "enumeration",
@@ -354,10 +354,10 @@
                     "language": "JavaScript",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-23T11:01:21Z",
-                    "open_issues": 597,
+                    "open_issues": 596,
                     "owner": "gchq",
                     "repo": "CyberChef",
-                    "stars": 36226,
+                    "stars": 36238,
                     "topics": [
                       "compression",
                       "data-analysis",
@@ -413,7 +413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T23:43:39.922Z",
+    "last_updated": "2026-10-28T23:58:50.674Z",
     "original_repository_info": {
       "archived": false,
       "description": "CTF Cheatsheet",
