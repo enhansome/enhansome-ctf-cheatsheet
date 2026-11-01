@@ -20,10 +20,10 @@
                     "language": "Go",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-25T16:13:11Z",
-                    "open_issues": 250,
+                    "open_issues": 251,
                     "owner": "owasp-amass",
                     "repo": "amass",
-                    "stars": 15445,
+                    "stars": 15449,
                     "topics": [
                       "attack-surfaces",
                       "dns",
@@ -58,7 +58,7 @@
                     "open_issues": 253,
                     "owner": "aboul3la",
                     "repo": "Sublist3r",
-                    "stars": 11076,
+                    "stars": 11078,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:21:04.524Z"
@@ -127,7 +127,7 @@
                     "id": 165548191,
                     "language": "C#",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-29T05:31:36Z",
+                    "last_commit": "2026-11-01T16:07:13Z",
                     "open_issues": 1,
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
@@ -193,7 +193,7 @@
                     "open_issues": 0,
                     "owner": "sleventyeleven",
                     "repo": "linuxprivchecker",
-                    "stars": 1859,
+                    "stars": 1860,
                     "topics": [
                       "ctf-tools",
                       "hackthebox",
@@ -249,7 +249,7 @@
                     "id": 165548191,
                     "language": "C#",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-29T05:31:36Z",
+                    "last_commit": "2026-11-01T16:07:13Z",
                     "open_issues": 1,
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
@@ -322,7 +322,7 @@
                     "open_issues": 3,
                     "owner": "DominicBreuker",
                     "repo": "pspy",
-                    "stars": 6229,
+                    "stars": 6232,
                     "topics": [
                       "ctf",
                       "enumeration",
@@ -357,7 +357,7 @@
                     "open_issues": 600,
                     "owner": "gchq",
                     "repo": "CyberChef",
-                    "stars": 36273,
+                    "stars": 36284,
                     "topics": [
                       "compression",
                       "data-analysis",
@@ -413,7 +413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T23:19:20.654Z",
+    "last_updated": "2026-11-01T23:31:39.681Z",
     "original_repository_info": {
       "archived": false,
       "description": "CTF Cheatsheet",
