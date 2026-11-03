@@ -23,7 +23,7 @@
                     "open_issues": 251,
                     "owner": "owasp-amass",
                     "repo": "amass",
-                    "stars": 15449,
+                    "stars": 15455,
                     "topics": [
                       "attack-surfaces",
                       "dns",
@@ -58,7 +58,7 @@
                     "open_issues": 253,
                     "owner": "aboul3la",
                     "repo": "Sublist3r",
-                    "stars": 11078,
+                    "stars": 11080,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:21:04.524Z"
@@ -127,11 +127,11 @@
                     "id": 165548191,
                     "language": "C#",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-01T16:07:13Z",
+                    "last_commit": "2026-11-02T14:22:35Z",
                     "open_issues": 1,
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
-                    "stars": 20746,
+                    "stars": 20750,
                     "topics": [
                       "bash",
                       "batch",
@@ -172,7 +172,7 @@
                     "open_issues": 25,
                     "owner": "rebootuser",
                     "repo": "LinEnum",
-                    "stars": 8074,
+                    "stars": 8075,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:21:04.524Z"
@@ -193,7 +193,7 @@
                     "open_issues": 0,
                     "owner": "sleventyeleven",
                     "repo": "linuxprivchecker",
-                    "stars": 1860,
+                    "stars": 1861,
                     "topics": [
                       "ctf-tools",
                       "hackthebox",
@@ -249,11 +249,11 @@
                     "id": 165548191,
                     "language": "C#",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-01T16:07:13Z",
+                    "last_commit": "2026-11-02T14:22:35Z",
                     "open_issues": 1,
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
-                    "stars": 20746,
+                    "stars": 20750,
                     "topics": [
                       "bash",
                       "batch",
@@ -353,11 +353,11 @@
                     "id": 74962515,
                     "language": "JavaScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-30T03:06:59Z",
-                    "open_issues": 600,
+                    "last_commit": "2026-11-02T14:31:04Z",
+                    "open_issues": 599,
                     "owner": "gchq",
                     "repo": "CyberChef",
-                    "stars": 36284,
+                    "stars": 36297,
                     "topics": [
                       "compression",
                       "data-analysis",
@@ -413,7 +413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T23:31:39.681Z",
+    "last_updated": "2026-11-03T02:13:30.166Z",
     "original_repository_info": {
       "archived": false,
       "description": "CTF Cheatsheet",
