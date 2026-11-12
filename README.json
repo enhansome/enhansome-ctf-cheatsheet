@@ -19,11 +19,11 @@
                     "id": 140457254,
                     "language": "Go",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-11T00:05:46Z",
+                    "last_commit": "2026-11-11T14:45:44Z",
                     "open_issues": 250,
                     "owner": "owasp-amass",
                     "repo": "amass",
-                    "stars": 15495,
+                    "stars": 15503,
                     "topics": [
                       "attack-surfaces",
                       "dns",
@@ -58,7 +58,7 @@
                     "open_issues": 254,
                     "owner": "aboul3la",
                     "repo": "Sublist3r",
-                    "stars": 11093,
+                    "stars": 11094,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:21:04.524Z"
@@ -131,7 +131,7 @@
                     "open_issues": 2,
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
-                    "stars": 20805,
+                    "stars": 20811,
                     "topics": [
                       "bash",
                       "batch",
@@ -193,7 +193,7 @@
                     "open_issues": 0,
                     "owner": "sleventyeleven",
                     "repo": "linuxprivchecker",
-                    "stars": 1859,
+                    "stars": 1860,
                     "topics": [
                       "ctf-tools",
                       "hackthebox",
@@ -253,7 +253,7 @@
                     "open_issues": 2,
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
-                    "stars": 20805,
+                    "stars": 20811,
                     "topics": [
                       "bash",
                       "batch",
@@ -357,7 +357,7 @@
                     "open_issues": 590,
                     "owner": "gchq",
                     "repo": "CyberChef",
-                    "stars": 36366,
+                    "stars": 36376,
                     "topics": [
                       "compression",
                       "data-analysis",
@@ -413,7 +413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T00:36:47.278Z",
+    "last_updated": "2026-11-12T01:52:56.072Z",
     "original_repository_info": {
       "archived": false,
       "description": "CTF Cheatsheet",
