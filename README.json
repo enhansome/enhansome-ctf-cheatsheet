@@ -19,11 +19,11 @@
                     "id": 140457254,
                     "language": "Go",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-19T01:09:14Z",
-                    "open_issues": 255,
+                    "last_commit": "2026-11-20T00:36:04Z",
+                    "open_issues": 254,
                     "owner": "owasp-amass",
                     "repo": "amass",
-                    "stars": 15534,
+                    "stars": 15535,
                     "topics": [
                       "attack-surfaces",
                       "dns",
@@ -86,7 +86,7 @@
                     "open_issues": 30,
                     "owner": "philipperemy",
                     "repo": "tensorflow-1.4-billion-password-analysis",
-                    "stars": 1962,
+                    "stars": 1961,
                     "topics": [
                       "deep-learning",
                       "natural-language-processing",
@@ -131,7 +131,7 @@
                     "open_issues": 2,
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
-                    "stars": 20853,
+                    "stars": 20858,
                     "topics": [
                       "bash",
                       "batch",
@@ -172,7 +172,7 @@
                     "open_issues": 27,
                     "owner": "rebootuser",
                     "repo": "LinEnum",
-                    "stars": 8095,
+                    "stars": 8096,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:21:04.524Z"
@@ -193,7 +193,7 @@
                     "open_issues": 0,
                     "owner": "sleventyeleven",
                     "repo": "linuxprivchecker",
-                    "stars": 1864,
+                    "stars": 1863,
                     "topics": [
                       "ctf-tools",
                       "hackthebox",
@@ -225,7 +225,7 @@
                     "open_issues": 27,
                     "owner": "pentestmonkey",
                     "repo": "unix-privesc-check",
-                    "stars": 1081,
+                    "stars": 1080,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:21:04.524Z"
@@ -253,7 +253,7 @@
                     "open_issues": 2,
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
-                    "stars": 20853,
+                    "stars": 20858,
                     "topics": [
                       "bash",
                       "batch",
@@ -294,7 +294,7 @@
                     "open_issues": 6,
                     "owner": "411Hall",
                     "repo": "JAWS",
-                    "stars": 2022,
+                    "stars": 2021,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:21:04.524Z"
@@ -322,7 +322,7 @@
                     "open_issues": 3,
                     "owner": "DominicBreuker",
                     "repo": "pspy",
-                    "stars": 6252,
+                    "stars": 6253,
                     "topics": [
                       "ctf",
                       "enumeration",
@@ -353,11 +353,11 @@
                     "id": 74962515,
                     "language": "JavaScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-18T20:44:50Z",
-                    "open_issues": 592,
+                    "last_commit": "2026-11-19T15:56:04Z",
+                    "open_issues": 583,
                     "owner": "gchq",
                     "repo": "CyberChef",
-                    "stars": 36475,
+                    "stars": 36482,
                     "topics": [
                       "compression",
                       "data-analysis",
@@ -398,7 +398,7 @@
                 "open_issues": 2,
                 "owner": "rasta-mouse",
                 "repo": "Sherlock",
-                "stars": 2024,
+                "stars": 2023,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:21:04.524Z"
@@ -413,7 +413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T01:51:03.985Z",
+    "last_updated": "2026-11-20T01:45:05.357Z",
     "original_repository_info": {
       "archived": false,
       "description": "CTF Cheatsheet",
@@ -425,7 +425,7 @@
       "open_issues": 0,
       "owner": "uppusaikiran",
       "repo": "awesome-ctf-cheatsheet",
-      "stars": 147,
+      "stars": 148,
       "topics": [
         "awesome",
         "awesome-list",
