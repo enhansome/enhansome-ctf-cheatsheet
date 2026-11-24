@@ -19,11 +19,11 @@
                     "id": 140457254,
                     "language": "Go",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-23T00:27:48Z",
+                    "last_commit": "2026-11-24T01:52:35Z",
                     "open_issues": 255,
                     "owner": "owasp-amass",
                     "repo": "amass",
-                    "stars": 15549,
+                    "stars": 15553,
                     "topics": [
                       "attack-surfaces",
                       "dns",
@@ -127,11 +127,11 @@
                     "id": 165548191,
                     "language": "C#",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-22T04:21:44Z",
+                    "last_commit": "2026-11-23T22:35:16Z",
                     "open_issues": 2,
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
-                    "stars": 20875,
+                    "stars": 20878,
                     "topics": [
                       "bash",
                       "batch",
@@ -193,7 +193,7 @@
                     "open_issues": 0,
                     "owner": "sleventyeleven",
                     "repo": "linuxprivchecker",
-                    "stars": 1867,
+                    "stars": 1868,
                     "topics": [
                       "ctf-tools",
                       "hackthebox",
@@ -249,11 +249,11 @@
                     "id": 165548191,
                     "language": "C#",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-22T04:21:44Z",
+                    "last_commit": "2026-11-23T22:35:16Z",
                     "open_issues": 2,
                     "owner": "peass-ng",
                     "repo": "PEASS-ng",
-                    "stars": 20875,
+                    "stars": 20878,
                     "topics": [
                       "bash",
                       "batch",
@@ -294,7 +294,7 @@
                     "open_issues": 6,
                     "owner": "411Hall",
                     "repo": "JAWS",
-                    "stars": 2024,
+                    "stars": 2023,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:21:04.524Z"
@@ -322,7 +322,7 @@
                     "open_issues": 3,
                     "owner": "DominicBreuker",
                     "repo": "pspy",
-                    "stars": 6255,
+                    "stars": 6256,
                     "topics": [
                       "ctf",
                       "enumeration",
@@ -357,7 +357,7 @@
                     "open_issues": 584,
                     "owner": "gchq",
                     "repo": "CyberChef",
-                    "stars": 36503,
+                    "stars": 36513,
                     "topics": [
                       "compression",
                       "data-analysis",
@@ -413,7 +413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T00:47:18.106Z",
+    "last_updated": "2026-11-24T04:43:06.744Z",
     "original_repository_info": {
       "archived": false,
       "description": "CTF Cheatsheet",
